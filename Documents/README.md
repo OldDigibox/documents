@@ -6,7 +6,7 @@ projects, and how to make use of our resources.
 
 ## Step 1: Install Visual Studio
 For all of our projects, you need Visual Studio Community 2019, which you can get at https://visualstudio.microsoft.com/downloads/. We do NOT use Visual Studio Code
-due to its lack of Git GUI. In the Visual Studio Installer, you need to select Desktop Development for C++.
+due to its lack of Git GUI. In the Visual Studio Installer, you need to select *Desktop Development for C++*, *ASP.NET and web development*, and if you want, *Node.js development*.
 
 ## Step 2: Install Git
 Now, we need to install Git. You can get it here: https://git-scm.com/downloads
